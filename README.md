@@ -1,3 +1,5 @@
+# The code is in Avery-A5.ipynb
+
 # Convolutional-Neural-Network
 Convolutional Neural Network implementation for the MNIST dataset
 
